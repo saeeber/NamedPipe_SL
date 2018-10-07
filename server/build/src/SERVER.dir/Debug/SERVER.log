@@ -1,0 +1,4 @@
+﻿  Namedpipe_Server.cpp
+c:\users\jsong\desktop\cmake_namedpipe\server\src\namedpipe_server.cpp(280): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+c:\users\jsong\desktop\cmake_namedpipe\server\src\namedpipe_server.cpp(338): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+  SERVER.vcxproj -> C:\Users\jsong\Desktop\cmake_namedpipe\server\build\src\Debug\SERVER.exe

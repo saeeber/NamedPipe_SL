@@ -1,0 +1,3 @@
+C:/Users/jsong/Desktop/cmake_namedpipe/client/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jsong/Desktop/cmake_namedpipe/client/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/jsong/Desktop/cmake_namedpipe/client/build/src/CMakeFiles/Client.dir

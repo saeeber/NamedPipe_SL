@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jsong\Desktop\cmake_namedpipe\client\src\NamedPipe_Client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jsong\Desktop\cmake_namedpipe\client\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{306FE3E0-E592-31A9-9702-D96BAFAD3DFC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

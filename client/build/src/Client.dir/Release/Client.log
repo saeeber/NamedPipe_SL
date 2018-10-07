@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/jsong/Desktop/cmake_namedpipe/client/src/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/jsong/Desktop/cmake_namedpipe/client/build/src/CMakeFiles/generate.stamp is up-to-date.
+  NamedPipe_Client.cpp
+c:\users\jsong\desktop\cmake_namedpipe\client\src\namedpipe_client.cpp(124): warning C4129: '%': unrecognized character escape sequence
+  Client.vcxproj -> C:\Users\jsong\Desktop\cmake_namedpipe\client\build\src\Release\Client.exe
