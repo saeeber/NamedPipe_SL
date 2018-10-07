@@ -1,7 +1,7 @@
 # Namedpipe communication project for Streamlabs
 
 There are server and client CMake console programs.
-
+Each EXE files are each directories "server/build/src/Release/" and "client/build/src/Release/"
 
 They communicate using Namedpipe.
 
